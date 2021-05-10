@@ -1,0 +1,4 @@
+E:\C++ projekt\3D_Projekt_VW_PS_FG\UD1447 Projekt\x64\Debug\MayaAPI.mll
+E:\C++ projekt\Animation transfer\UD1447 Projekt\x64\Debug\MayaAPI.mll
+E:\C++ projekt\Animation transfer\Kandidatarbete\x64\Debug\MayaAPI.mll
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\x64\Debug\MayaAPI.mll

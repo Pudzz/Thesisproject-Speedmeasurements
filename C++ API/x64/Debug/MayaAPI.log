@@ -1,0 +1,9 @@
+﻿  mayaRun.cpp
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\UD1447 Projekt\mayaRun.cpp(61,21): warning C4018: '<': signed/unsigned mismatch
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\UD1447 Projekt\mayaRun.cpp(78,52): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\UD1447 Projekt\mayaRun.cpp(79,52): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\UD1447 Projekt\mayaRun.cpp(80,50): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\UD1447 Projekt\mayaRun.cpp(81,50): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\UD1447 Projekt\mayaRun.cpp(82,43): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\UD1447 Projekt\mayaRun.cpp(83,48): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MayaAPI.vcxproj -> E:\C++ projekt\Kandidatarbete\ThesisProject\C++ API\x64\Debug\MayaAPI.mll

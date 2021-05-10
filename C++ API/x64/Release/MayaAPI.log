@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1316,5): warning MSB8012: TargetPath(C:\Users\Pad\Documents\GitHub\ThesisProject\C++ API\x64\Release\MayaAPI.mll) does not match the Linker's OutputFile property value (C:\ProgramFiles\Autodesk\Maya2022\bin\MayaAPI.mll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  mayaRun.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\Pad\Documents\GitHub\ThesisProject\C++ API\x64\Release\MayaAPI.lib and object C:\Users\Pad\Documents\GitHub\ThesisProject\C++ API\x64\Release\MayaAPI.exp
+  Generating code
+  Finished generating code
+  MayaAPI.vcxproj -> C:\Users\Pad\Documents\GitHub\ThesisProject\C++ API\x64\Release\MayaAPI.mll
