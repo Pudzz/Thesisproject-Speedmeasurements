@@ -1,1 +1,0 @@
-Contains code from four different Python Modules, as well as Maya's C ++ API used for speed measurements to transfer animations between two skeleton hierarchies.
